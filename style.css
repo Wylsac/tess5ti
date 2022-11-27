@@ -356,7 +356,7 @@ h1::after {
 
 .container-fluid {
     background-image: linear-gradient(rgba(15, 62, 15, 0), rgba(111, 135, 146, 1)), url(img/price.jpg);
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     min-width: 100%;
